@@ -1,0 +1,2 @@
+# core
+hi for javaSrcipt
